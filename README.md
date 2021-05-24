@@ -2,3 +2,4 @@
 - Programming: C / C++, SQL,  PL/pgSQL, PL/Sql, Python, C#, PHP, ABAP
 - Code Editor: Sublime Text / Visual Studio Code
 - Employed at: University of Applied Sciences Amberg-Weiden (Studienbüro)
+- Operating Systems: Linux / Unix, Windows NT (Windows 10)
