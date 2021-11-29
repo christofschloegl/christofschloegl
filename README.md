@@ -9,7 +9,7 @@ Operating Systems: Linux / Unix, Windows NT
 [Heimatverein Wiesau](https://www.heimatverein-wiesau.de)
 
 Member of Linux User Group Mitterteich\
-[Linux Mitterteich](https://www.linux-mitterteich.de/)\
+[Linux Mitterteich](https://www.linux-mitterteich.de/)
 
 Current Projects:
 Corona-Nordoberpfalz (HTML page with Stats for Corona)\
