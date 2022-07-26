@@ -1,6 +1,6 @@
 Name: **Christof Schlögl**  
-Programming: C, SQL, Python, PHP, ABAP  
-Code Editor: Sublime Text, Visual Studio Code  
+Programming: C, SQL, Python, PHP
+Code Editor: Visual Studio / Code  
 File System: Ext4, NTFS  
 Shell: ZSH  
 Operating Systems: Linux / Unix, Windows NT
