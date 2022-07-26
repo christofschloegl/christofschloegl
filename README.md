@@ -4,7 +4,7 @@ Name: **Christof Schlögl**
   
 Programming: C, Vala, Kotlin, Groovy, SQL, Python, PHP, HTML, Javascript \
 Code Editor: Visual Studio / Code  \
-File System: Ext4, NTFS  \
+File System: Ext4, NTFS, ZFS  \
 Shell: ZSH  \
 Operating Systems: Linux / Unix, Windows NT \
 
