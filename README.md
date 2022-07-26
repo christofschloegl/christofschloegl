@@ -2,7 +2,7 @@ Name: **Christof Schlögl**
 
 >> Different.
   
-Programming: C, Vala, Kotlin, Groovy, SQL, Python, PHP, HTML, Javascript \
+Programming: C, Kotlin, SQL, Python, PHP, HTML, Javascript \
 Code Editor: Visual Studio / Code  \
 File System: Ext4, NTFS, ZFS  \
 Shell: ZSH  \
