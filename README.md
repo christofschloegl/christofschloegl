@@ -20,5 +20,8 @@ Corona-Nordoberpfalz (HTML page with Stats for Corona)\
 RSS Reader (C# WPF Application private Repo) \
 OTH Coffee (NFC Application written in Kotlin mainly by Adrian Hölzl)
 
+Links: \
+https://simonsinek.com/ \
+
 Work: \
 PRIMUSS
