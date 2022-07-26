@@ -1,5 +1,5 @@
 Name: **Christof Schlögl**  
-Programming: C, SQL, Python, PHP
+Programming: C, SQL, Python, PHP, HTML, Javascript
 Code Editor: Visual Studio / Code  
 File System: Ext4, NTFS  
 Shell: ZSH  
