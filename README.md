@@ -1,9 +1,9 @@
 Name: **Christof Schlögl**  
-Programming: C, SQL, Python, PHP, HTML, Javascript
-Code Editor: Visual Studio / Code  
-File System: Ext4, NTFS  
-Shell: ZSH  
-Operating Systems: Linux / Unix, Windows NT
+Programming: C, SQL, Python, PHP, HTML, Javascript \
+Code Editor: Visual Studio / Code  \
+File System: Ext4, NTFS  \
+Shell: ZSH  \
+Operating Systems: Linux / Unix, Windows NT \
 
 [Feuerwehr Oberköblitz](https://www.feuerwehr-oberkoeblitz.de) \
 [Heimatverein Wiesau](https://www.heimatverein-wiesau.de)
