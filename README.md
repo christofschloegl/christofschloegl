@@ -1,6 +1,6 @@
 Name: **Christof Schlögl**
 
->> Ne Kind.
+>> Different.
   
 Programming: C, Vala, Kotlin, Groovy, SQL, Python, PHP, HTML, Javascript \
 Code Editor: Visual Studio / Code  \
