@@ -1,7 +1,5 @@
 Name: **Christof Schlögl**
 
->> Different.
-  
 Programming: C, Kotlin, SQL, Python, PHP, HTML, Javascript \
 Code Editor: Visual Studio / Code  \
 File System: Ext4, NTFS, ZFS  \
@@ -19,6 +17,3 @@ Corona-Nordoberpfalz (HTML page with Stats for Corona)\
 "Budget book" written in PHP (private Repo) \
 RSS Reader (C# WPF Application private Repo) \
 OTH Coffee (NFC Application written in Kotlin mainly by Adrian Hölzl)
-
-Links: \
-https://simonsinek.com/
