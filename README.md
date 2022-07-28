@@ -4,7 +4,7 @@ Programming: C, Kotlin, SQL, Python, PHP, HTML, Javascript \
 Code Editor: Visual Studio / Code  \
 File System: Ext4, NTFS, ZFS  \
 Shell: ZSH  \
-Operating Systems: Linux / Unix, Windows NT \
+Operating Systems: Linux / Unix, Windows NT
 
 [Feuerwehr Oberköblitz](https://www.feuerwehr-oberkoeblitz.de) \
 [Heimatverein Wiesau](https://www.heimatverein-wiesau.de)
